@@ -2,7 +2,9 @@ Add your answers to the Algorithms exercises here.
 
 ### Exercise I
 
-a) 
+a) O(n)
+
+The condition in while loop is n^3 but it is being cancelled by n * n in the body of while loop. Thus, it's time complexity is O(n) 
 
 b) O(n^4)
 
