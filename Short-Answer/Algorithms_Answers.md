@@ -10,4 +10,6 @@ b) O(n^4)
 
 This algorithm has four for loop nested inside of each other. If we ignore small constants in this algorithm, it's time complexity will be O(n^4)
 
-c) 
+c) O(n)
+
+bunnyEars is a recursive function and it's calling itself once while reducing the n by one with each call. Thus, it's time complexity is O(n)
